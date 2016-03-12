@@ -1,0 +1,17 @@
+{
+  "name": "beachornah",
+  "version": "1.0.0",
+  "description": "Beach weather texting app",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [
+    "meteor",
+    "twilio"
+  ],
+  "author": "Timothy Voice",
+  "dependencies": {
+    "foundation-sites": "^6.2.0"
+  }
+}
